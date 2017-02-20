@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AbrirPagina</string>
+    <string name="button_send">Ir a Chaski</string>
+    <string name="chooser_title">ELEGIR APP</string>
+</resources>
