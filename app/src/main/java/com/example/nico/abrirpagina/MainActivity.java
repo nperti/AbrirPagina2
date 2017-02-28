@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void startActivity(View intent) {
-        Uri webpage = Uri.parse("http://www.android.com");
+        Uri webpage = Uri.parse("http://www.chaski.org");
         Intent webIntent = new Intent(Intent.ACTION_VIEW, webpage);
         startActivity(webIntent);
     }

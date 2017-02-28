@@ -2,4 +2,13 @@
     <string name="app_name">AbrirPagina</string>
     <string name="button_send">Ir a Chaski</string>
     <string name="chooser_title">ELEGIR APP</string>
+    <string name="titulo">pasos para ingresar a chaski</string>
+    <string name="orden_uno">1) Conectarse a la red WiFi Chaski</string>
+    <string name="orden_dos">2) Ingresar a www.chaski.org desde la computadora o el teléfono</string>
+    <string name="orden_tres">3) Iniciar sesión con tu usuario personal</string>
+    <string name="orden_cuatro">4) En la Red Chaski podés compartir fotos, audios, videos, programas y archivos de todo tipo</string>
+    <string name="orden_cinco">Videoteca Chaski: Accedé a películas, series, programas de TV, documentales, cursos y recitales en vivo</string>
+    <string name="contacto">Por cualquier consulta podés comunicarte con los compañeros de Atalaya Sur al 388-458-3830 o por el chat de Chaski</string>
+
+
 </resources>
